@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: How docker is chaning my virtualization consumption.
-datePublished: '2015-12-16T21:45:21.427Z'
-dateModified: '2015-12-16T21:45:09.495Z'
+datePublished: '2015-12-16T21:51:39.285Z'
+dateModified: '2015-12-16T21:46:02.394Z'
 title: 'My new "docker" world'
 author: []
 authors: []
