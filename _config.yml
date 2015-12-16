@@ -1,0 +1,28 @@
+name: ushan
+favicon: null
+layout_spectrum: 0.009180857567116618
+typography_spectrum: 0.6038318600039929
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6200511294882745
+  lightness: 0.17559864302165806
+  saturation: 0.8777789485175163
+  rhythmicContrast: 0.6698998075444251
+purpose: []
