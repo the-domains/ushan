@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'My first post on grid, this feels just awesome'
-datePublished: '2015-12-16T21:10:05.685Z'
-dateModified: '2015-12-16T21:09:50.539Z'
+datePublished: '2015-12-16T21:14:40.866Z'
+dateModified: '2015-12-16T21:13:50.068Z'
 title: Hello World
 author: []
 authors: []
@@ -24,4 +24,4 @@ _type: Article
 ---
 Hello World!   
 I am excited to start using the grid. It's been a long wait, and finally here I am as a beta user.  
-Off I go, more posts sooner.
+I am really interested in how the AI design works, so I will have to come up with posts with a good frequency. This way, I get to see how the AI makes my posts more appealing (as acclaimed).
