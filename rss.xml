@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[ushan]]></title>
-        <description><![CDATA[ushan]]></description>
+        <title><![CDATA[Sai Uday's blog]]></title>
+        <description><![CDATA[Sai Uday's blog]]></description>
         <link>https://thegrid.ai/ushan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Dec 2015 21:18:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Dec 2015 21:45:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ushan/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hello World]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/ushan/hello-world/index.html</link>
             <guid isPermaLink="false">149546ac-2832-4d22-a9b9-dadb54870d9d</guid>
             <pubDate>Wed, 16 Dec 2015 21:18:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My new "docker" world]]></title>
+            <description><![CDATA[<article><h1>My new "docker" world</h1><p>How docker is chaning my virtualization consumption.</p></article>]]></description>
+            <link>https://thegrid.ai/ushan/my-new-docker-world/index.html</link>
+            <guid isPermaLink="false">09e7d5f1-d4c3-4105-adab-22ef1eddb11b</guid>
+            <pubDate>Wed, 16 Dec 2015 21:45:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
